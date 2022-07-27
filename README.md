@@ -5,7 +5,7 @@
 ## Tentang Aplikasi
 
 Jadi script ini saat saya coding pertama kali saat masih menduduki di sekolah kelas 10.
-Mendalami dasar" tag di html.
+Mendalami dasar" tag html, pengerjaan menggunakan gadget mobile aplikasi dcoder.
 
 ## License
 
